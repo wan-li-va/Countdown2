@@ -1,0 +1,29 @@
+.Quote {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500px;
+}
+
+.newQuote {
+    display: flex;
+    margin-top: 20px;
+    width: 200px;
+    background-color: pink;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.text {
+    background-color: grey;
+}
+
+.q {
+    font-style: italic;
+}
